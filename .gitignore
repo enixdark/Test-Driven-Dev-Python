@@ -43,5 +43,15 @@ coverage.xml
 docs/_build/
 # PyBuilder
 target/
+<<<<<<< HEAD
 
 bower_components
+=======
+db.sqlite3
+__pycache__
+*.pyc
+*.db
+*.sqlite3
+
+bower_components
+>>>>>>> 7dfb05dc8a565346b6a208f2542bd2746425e72a
